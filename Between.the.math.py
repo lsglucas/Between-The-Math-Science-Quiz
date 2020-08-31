@@ -45,7 +45,7 @@ def languageScreen():
 		lang.destroy()
 
 	ptbr = Button(lang, text='PORTUGUÊS', width=20, height=2, font=('Arial', 22), fg='green', command=getLangPT)
-	en = Button(lang, text='INGLÊS', width=20, height=2, font=('Arial', 22), fg='red', command=getLangEN)
+	en = Button(lang, text='ENGLISH', width=20, height=2, font=('Arial', 22), fg='red', command=getLangEN)
 
 	ptbr.place(relx=0.25, rely=0.6, anchor=S)
 	en.place(relx=0.75, rely=0.6, anchor=S)
