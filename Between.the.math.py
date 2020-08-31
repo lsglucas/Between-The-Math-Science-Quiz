@@ -366,7 +366,7 @@ def feedback(x):
     fb.geometry("900x700+{}+{}".format(positionRight+300, positionDown))
 
     tituloFeed = Label(fb, text="VOCÊ ERROU" if language == 'pt' else 'YOU FAILED', font=('Gothic', 32, "bold"), fg = 'red')
-    justificativa = Label(fb, text = 'Justificativa:' if language == 'pt' else 'Answer sheet:', font=('Arial', 23, "bold"), fg = 'black')
+    justificativa = Label(fb, text = 'Justificativa:' if language == 'pt' else 'Feedback:', font=('Arial', 23, "bold"), fg = 'black')
     resposta = Label(fb, text=explic[x], fg = 'black', font=('Arial', 18))
     tituloFeed.place(relx=0.5,rely=0,anchor=N)
     
