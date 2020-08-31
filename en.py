@@ -12,7 +12,7 @@ perguntas = {1: "What is the equation for an ellipse??", #medium
              12: "Which one of the following elements has 3 electrons in the valence shell?", #Media
              13: "Which of the following scientists was responsible\n for the model of the atom known as 'raisin bread'?", #Facil
              14: "Which of the following acids is the least volatile?", #media
-             15: "Between water, vinegar, oxigen gas and salt,\nWhich one is a simple substance?", #Facil
+             15: "Between water, vinegar, oxygen gas and salt,\nWhich one is a simple substance?", #Facil
              16: "Solve the following inequality: \n 3(1 - 2x) < 2(x + 1) + x  7:", #Media
              17: "Convert 2 * 10⁵ ml to cubic meters,\n the result is:", #Dificl
              18: "Calculate the difference of the area between ​​the two circles,\n the first one has 35 cm radius and the second one 25 cm radius", #Media
@@ -92,7 +92,7 @@ alternativas = {1.1: "x² + y²/3 = 0",
                 14.4: "H₂SO₃",
                 14.5: "H₂SO₄", #correta 14 e)
                 15.1: "Water",
-                15.2: "Oxigen Gas", #correta 15 b)
+                15.2: "Oxygen Gas", #correta 15 b)
                 15.3: "Vinegar salse", 
                 15.4: "Sodium",
                 15.5: "Salt",
