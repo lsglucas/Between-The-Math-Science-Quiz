@@ -36,11 +36,11 @@ alternativas = {1.1: "x² + y²/3 = 0",
                 3.3: "Third Law",
                 3.4: "Fourth Law",
                 3.5: "Fifth Law",
-                4.1: "125,6 m³", #correta 4 a)
-                4.2: "123,8 m³", 
-                4.3: "75,3  m³",
-                4.4: "79,7  m³",
-                4.5: "78,8  m³",
+                4.1: "125.6 m³", #correta 4 a)
+                4.2: "123.8 m³", 
+                4.3: "75.3  m³",
+                4.4: "79.7  m³",
+                4.5: "78.8  m³",
                 5.1: "an",
                 5.2: "dien",
                 5.3: "in",
@@ -101,11 +101,11 @@ alternativas = {1.1: "x² + y²/3 = 0",
                 16.3: "x < 7/3",
                 16.4: "x < 2/7",
                 16.5: "x > 8/9", #correta 16 e)
-                17.1: "0,002",
-                17.2: "0,02", #correta 17 b)
-                17.3: "0,0002",
-                17.4: "0,2",
-                17.5: "0,00002",
+                17.1: "0.002",
+                17.2: "0.02", #correta 17 b)
+                17.3: "0.0002",
+                17.4: "0.2",
+                17.5: "0.00002",
                 18.1: "100π cm²",
                 18.2: "300π cm²",
                 18.3: "600π cm²", #correta 18 c)
@@ -116,11 +116,11 @@ alternativas = {1.1: "x² + y²/3 = 0",
                 19.3: "15 Hz",
                 19.4: "30 Hz",
                 19.5: "20 Hz", #correta 19 e)
-                20.1: "2,24 L",
-                20.2: "22,4 L", #correta 20 b)
+                20.1: "2.24 L",
+                20.2: "22.4 L", #correta 20 b)
                 20.3: "224 L",
-                20.4: "224,4 L",
-                20.5: "24,2 L"}
+                20.4: "224.4 L",
+                20.5: "24.2 L"}
 
 explic = {1: "The correct equation for the ellipse is x²/a² + y²/b² = 1" ,
           2: "The formula to find the discriminant is b² - 4*a*c\n Hence, (-5²) - 4*1*6 = 25 - 24 = 1" ,
@@ -141,4 +141,4 @@ explic = {1: "The correct equation for the ellipse is x²/a² + y²/b² = 1" ,
           17: "To calculate, we divide the value by 1e+6",
           18: "To calculate the difference,\n first we use the formula of the area which is A = π · r² \nthen we subtract the value of the large circle with the smallest one\n and obtain the result 600π cm²",
           19: "We use the formula f = v ÷ λ, then we replace the values ​​reaching the correct option.",
-          20: "Because it's an ideal gas we are going to use the Clapeyron equation which is\np*V = n*R*T\n then replacing the values we get 1*V = 1*0,082*273, hence V = 22,4 L." }
+          20: "Because it's an ideal gas we are going to use the Clapeyron equation which is\np*V = n*R*T\n then replacing the values we get 1*V = 1*0,082*273, hence V = 22.4 L." }
