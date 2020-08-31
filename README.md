@@ -1,4 +1,4 @@
-# SchoolQuiz
-School quiz written in Python
+# Between The Math & Science Quiz
+Quiz written in Python for a school project during my 1st semester of Computer Science
 Original languange: Portuguese
-Translated to English by Lucas and Daniel
+Translated to English by Lucas Garcia with Daniel Kauffmann
