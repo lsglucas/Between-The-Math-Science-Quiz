@@ -6,18 +6,18 @@ perguntas = {1: "What is the equation for an ellipse??", #medium
              6: "How does the relationship between resistance and electric current take place?", #hard
              7: "What's the constant value of the\nspeed of light in vacuum?", #hard
              8: "How many passwords with 4 different digits\ncan we write with the following digits 1, 2, 3, a, b, c, !, @, # ?", #easy
-             9: "An object in resting position starts moving constantly \n 3 m/s² durante 4 segundos.\nO deslocamento desse móvel foi de:", #medium
-             10: "Qual das propriedades periódicas a seguir representa\ntendência de um átomo a atrair elétrons para si?", #Dificil
-             11: "O césio-137 tem uma meia vida igual a 30 anos. Caso \ntenhamos 48 g desse elemento, após passarem-se 120 anos,\nquanto de massa teremos dele?", #Facil
-             12: "Dos elementos da tabela periódica apresentados a\nseguir qual deles possui 3 elétrons na camada de valência?", #Media
-             13: "Qual dos seguintes cientistas foi responsável pelo modelo\ndo átomo apelidado de ‘pudim com passas’?", #Facil
-             14: "Qual dos ácidos a seguir é o menos volátil?", #media
-             15: "Entre a água, o vinagre, o gás oxigênio e o sal de cozinha,\nqual deles é uma substância simples?", #Facil
-             16: "Resolva a seguinte inequação: \n 3(1 - 2x) < 2(x + 1) + x  7:", #Media
-             17: "Faça a conversão de 2 * 10⁵ ml para metros cúbicos,\nresultado é igual a:", #Dificl
-             18: "Calcule a diferença da área dos dois círculos,\nonde primeiro possui 35 cm de raio e o segundo 25 cm", #Media
-             19: "Determine a frequência com um comprimento de onda igual\n a 1 m, sabendo que a velocidade do som no ar é igual a 340 m/s.", #dificil
-             20: "Considerando um gás ideal, tendo somente 1 mol,\nsob um temperatura de 273 K e uma pressão de 1 atm,\nqual é o seu volume?\n\nConsidere R = 0,082 atm*L/mol*K"} #media
+             9: "An object in resting position develops a constant \n acceleration of 3 m/s² for 4 seconds.\n What's the displacement of the object?", #medium
+             10: "Which one of the following periodic properties represents \n the trend of an atom to attract electrons to itself?", #Dificil
+             11: "Cesium-137 has a half-life of 30 years.\n Considering that there is 48g of that element?\n How much of it will remains after 120 years?", #Facil
+             12: "Which one of the following elements has 3 electrons in the valence shell?", #Media
+             13: "Which of the following scientists was responsible\n for the model of the atom known as 'raisin bread'?", #Facil
+             14: "Which of the following acids is the least volatile?", #media
+             15: "Between water, vinegar, oxigen gas and salt,\nWhich one is a simple substance?", #Facil
+             16: "Solve the following inequality: \n 3(1 - 2x) < 2(x + 1) + x  7:", #Media
+             17: "Convert 2 * 10⁵ ml to cubic meters,\n the result is:", #Dificl
+             18: "Calculate the difference of the area between ​​the two circles,\n the first one has 35 cm radius and the second one 25 cm radius", #Media
+             19: "Determine the frequency with the wavelength equals\n1 m, knowing that the speed of the sound equals to 340 m/s.", #dificil
+             20: "Considering an ideal gas, having only 1 mol,\nunder a temperature of 273 K and a pressure of 1 atm,\nwhat is the volume?\n\nConsider R = 0,082 atm*L/mol*K"} #media
 
 
 
@@ -122,23 +122,23 @@ alternativas = {1.1: "x² + y²/3 = 0",
                 20.4: "224,4 L",
                 20.5: "24,2 L"}
 
-explic = {1: "A fórmula correta da elipse é x²/a² + y²/b² = 1" ,
-          2: "A fórmula para calcular o delta é b² - 4*a*c\n Dessa forma, (-5²) - 4*1*6 = 25 - 24 = 1" ,
-          3: "A Lei correspondente a lei da inércia é a 1º Lei.\nEsta lei diz que todo corpo permanece emseu estado de repouso ou\nem movimento retilíneo e uniforme caso as forças que atuem sobre ele se anulem.",
-          4: "A fórmula do volume do clindro é V = π*R²*h.\n Dessa forma, conta ficaria V = 3.14*2²*10 = 125,6m³.",
-          5: "De acordo com a IUPAC, o sufixo 'eno' representa a presença de\nligação dupla no hidrocarboneto",
-          6: "De acordo com a fórmula da 1º Lei de Ohm:\nU = r*i\nPode-se comprovar matematicamente que a resistência elétrica e a\ncorrentelétrica são grandezas inversamentes proporcionais.",
-          7: "A alternativa que representa corretamente a velocidade da luz vácuo é a\nd) 3 x 10^5 km/s\nque equivale, em metros posegundo, à 3 x 10^8 m/s .",
-          8: "Como a questão pedia 4 algarismos diferentes, o número de possibilidades\ndeveria ser diminuído em 1 para cada novalgarismo.\nComo são 10 algarismos no total, a contficará: 9*8*7*6 = 3024.",
-          9: "A função da posição no Movimento Uniforme Variado é:\nDeltaS = v0 * t + a * t²/2\nDessa forma, 0 * 3 + 3 * 4²/2 = 2 metros.",
-          10: "A eletronegatividade é um propriedade que faz com que molécula\natraia elétrons adjacentes para si numa ligação químiccovalente.",
-          11: "A cada vez que o tempo de meia vida passa,\na massa de um elemento divide por 2, então após 120 anos,\na massa divide por quatro vezes (já que 120/30=4), resultando em 3 gramas de césio-137",
-          12: "A resposta correta é o elemento nihônio, pois ele pertence família 3A,\ne os que estão nessa família possuem 3 elétrons na camada de valência.",
-          13: "Thomson foi responsável pela ideia de um átomo ser positivo\ncom partículas negativas nele,fazendo com que o modelo se parecesse com um pudim\ncom passas, dando origem ao apelido.",
-          14: "H2SO4, o ácido sulfúrico, é o ácido menos volátil\npor ser considerado como um ácido fixo.",
-          15: "O gás oxigênio é uma substância simples por ser formado por\ndois átomos do mesmo elemento químico, o oxigênio.",
-          16: "Calculamos a inequação, fazemos a distribuição\n3 - 6x < 2x + + x - 7 até o seu resultado final x > 8/9",
-          17: "Para calcularmos, dividimos o valor por 1e+6",
-          18: "Para calcularmos a diferença, primeiros utilizamos a fórmula área que é\nA = π · r²\nentão subtraímos o valor do círculo grande com o menor e obtemos o resultado 600π cm²",
-          19: "Utilizamos a fórmula f = v ÷ λ, assim substituindo os\nvalores chegando ao resultado.",
-          20: "Por ser um gás ideal conseguimos usar a equação de Clapeyron que é\np*V = n*R*T\nentão substituindo os valores na equação fica 1*V = 1*0,082*273, assim V = 22,4 L." }
+explic = {1: "The correct equation for the ellipse is x²/a² + y²/b² = 1" ,
+          2: "The formula to find the discriminant is b² - 4*a*c\n Hence, (-5²) - 4*1*6 = 25 - 24 = 1" ,
+          3: "The law corresponding to the law of inertia is the 1st Law.\nNewton's First Law of Motion states that a body at rest will remain at rest unless an outside force acts on it.",
+          4: "The formula to find the cylinder volume is V = π*R²*h.\n Hence, V = 3.14*2²*10 = 125,6m³.",
+          5: "According to IUPAC, the suffix 'en' represents the presence of a douple bond in the hydrocarbon",
+          6: "\nAccording to the formula of the 1st Ohm's Law:\nU = r*i\nIt can be proved mathematically that the electrical resistance and the current resistance are inversely proportional.",
+          7: "The alternative that correctly represents the speed of light in a vacuum is the\nd) 3 x 10^5 km/s.",
+          8: "As the question asked for 4 different digits, \nthe number of possibilities should be reduced by 1 for each new digits.\n There are 10 digits in total, hence it will contain: 9 * 8 * 7 * 6 = 3024 passwords.",
+          9: "The equation of uniformly accelerated motion is:\nDeltaS = v0 * t + a * t²/2\n Hence, 0 * 3 + 3 * 4²/2 = 2 meters.",
+          10: "Electronegativity is a property that describes\n The tendency of an atom to attract electrons toward itself.",
+          11: "Every time the half-life happens,\nthe mass of the element is divided by 2,\nhence the mass is divided 4 times (120/30=4), resulting in 3 grams of césio-137",
+          12: "The correct answer is the nihonium element, as it belongs to family 3A.\nAnd those in this family have 3 electrons in the valence shell.",
+          13: "Thomson was responsible for the idea of ​​an atom being positive\nwith negative particles in it, making the model look like a rising bread.",
+          14: "H2SO4, sulfuric acid, is the least volatile acid\nfor being considered as a fixed acid.",
+          15: "Oxygen gas is a simple substance because\n it's formed by two atoms of the same chemical element, oxygen.",
+          16: "We calculate the inequality, do the distribution\n3 - 6x < 2x + + x - 7, resulting in x > 8/9",
+          17: "To calculate, we divide the value by 1e+6",
+          18: "To calculate the difference,\n first we use the formula of the area which is A = π · r² \nthen we subtract the value of the large circle with the smallest one\n and obtain the result 600π cm²",
+          19: "We use the formula f = v ÷ λ, then we replace the values ​​reaching the correct option.",
+          20: "Because it's an ideal gas we are going to use the Clapeyron equation which is\np*V = n*R*T\n then replacing the values we get 1*V = 1*0,082*273, hence V = 22,4 L." }
